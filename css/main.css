@@ -1,32 +1,36 @@
 .horizontal-scroller {
-position: relative;
-height: 45px;
-width: 680px;
-display: block;
-overflow: hidden;
-float: left;
-margin-top: 0;
-margin-right: 10px;
-margin-bottom: 0;
-margin-left: 35px;
-padding-top: 10px;
+    position: relative;
+    height: 45px;
+    width: 680px;
+    display: block;
+    overflow: hidden;
+    float: left;
+    margin-top: 0;
+    margin-right: 10px;
+    margin-bottom: 0;
+    margin-left: 35px;
+    padding-top: 10px;
 }
 
 
 
 #search-bar{
-	background: #FAFAFA;
-	border: solid 1px #ededed;
+    background: #FAFAFA;
+    border: solid 1px #ededed;
 }
 
 .top-bar-section ul li {
-  background: #FAFAFA;
+    background: #FAFAFA;
 }
 
 .top-bar-section .has-form {
-background: transparent;
+    background: transparent;
 }
 
 body{
-	background: url('http://yogyakarta.panduanwisata.id/files/2012/09/pantai-sadranan.jpg');
+    background: url('http://yogyakarta.panduanwisata.id/files/2012/09/pantai-sadranan.jpg');
+}
+
+#container-content{
+    background: white;
 }
